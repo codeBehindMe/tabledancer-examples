@@ -13,4 +13,7 @@ table_spec:
     - featureTwo:
         type: string
         comment: It's another feature
+    - featureThree:
+        type: string
+        comment: A third feature
   using: DELTA
